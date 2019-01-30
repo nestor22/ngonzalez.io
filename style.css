@@ -270,6 +270,7 @@ color:#ccc;
 .social-icons{
 top: 50%;
 transform: translateY(-50%);
+transform: translateX(-150%);
 position: sticky;
 z-index: 1;
 width: 80px;
