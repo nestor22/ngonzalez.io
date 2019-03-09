@@ -1,3 +1,19 @@
+:root{
+  --font-type-a: font-family: 'Oswald', sans-serif;
+  --font-type-sub: font-family: 'Pacifico', cursive;
+
+}
+.letra-tipoa{
+  font-family: 'Oswald', sans-serif;
+  font-size: 40px;
+}
+
+.letra-tipob{
+  font-family: 'Pacifico', cursive;
+  font-size: 30px;
+}
+
+
 body{
   margin: 0;
   padding: 0;
@@ -68,9 +84,9 @@ body{
 
 }
 .profile-img{
-  height:  400px;
-  width: 400px;
+  width: 80%;
 }
+
 .nav-bar{
   top: 0;
   position: sticky;
@@ -95,6 +111,9 @@ body{
 }
 .nav-link{
   color: #fff !important;
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  font-size: 25px;
+  margin-left: 8px;
 }
 .skills-bar p {
   margin-bottom: 6px;
